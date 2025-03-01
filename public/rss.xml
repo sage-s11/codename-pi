@@ -1,0 +1,195 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+<?xml version="1.0" encoding="utf-8"?>
+
+<rss version="2.0"  xml:lang="en-us"  xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        
+            
+            
+
+            
+
+            
+                <atom:link href="http://localhost:1313/" hreflang="en-us" rel="self" type="text/html"/>
+            
+        
+            
+            
+
+            
+
+            
+                <atom:link href="http://localhost:1313/rss.xml" hreflang="en-us" rel="alternate" type="application/rss+xml"/>
+            
+        
+
+        
+
+        
+
+        
+
+        
+            <language>en-us</language>
+        
+
+        
+            <lastBuildDate>Sat, 01 Mar 2025 11:06:30 EST</lastBuildDate>
+        
+
+        
+            <link>http://localhost:1313/</link>
+        
+
+        
+
+        
+            <title>My New Hugo Site</title>
+        
+
+        
+
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+
+                    
+
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-03-01:/blog/my-first-post/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/blog/my-first-post/</link>
+                    
+
+                    
+                        
+                        
+
+                        
+                        
+
+                        
+                            <atom:link href="http://localhost:1313/blog/my-first-post/" hreflang="en-us" rel="self" type="text/html"/>
+                        
+                    
+
+                    
+
+                    
+                        <pubDate>Sat, 01 Mar 2025 12:00:00 UTC</pubDate>
+                    
+
+                    
+                        <title>My First Blog Post</title>
+                    
+                </item>
+            
+        
+            
+                <item>
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+
+                    
+
+                    
+
+                    
+
+                    
+                        
+                    
+
+                    
+                    
+
+                    
+
+                    
+
+                    
+                        <guid isPermaLink="false">tag:localhost:1313,2025-03-01:/about/</guid>
+                    
+
+                    
+                        <link>http://localhost:1313/about/</link>
+                    
+
+                    
+                        
+                        
+
+                        
+                        
+
+                        
+                            <atom:link href="http://localhost:1313/about/" hreflang="en-us" rel="self" type="text/html"/>
+                        
+                    
+
+                    
+
+                    
+                        <pubDate>Sat, 01 Mar 2025 10:45:57 EST</pubDate>
+                    
+
+                    
+                        <title>About</title>
+                    
+                </item>
+            
+        
+    </channel>
+</rss>

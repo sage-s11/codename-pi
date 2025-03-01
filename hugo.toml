@@ -1,0 +1,8 @@
+baseURL = "http://localhost:1313/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "paige"
+
+[params]
+  description = "A Hugo blog using the Paige theme"
+  showReadMore = true
