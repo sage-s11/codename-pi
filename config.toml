@@ -1,13 +1,6 @@
 baseURL = "https://sage-s11.github.io/codename-pi/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-
-theme = "paige"
-	
-[params]
-  description = "A Hugo blog using the Paige theme"
-  showReadMore = true
-
 theme = "hugo-coder"
 
 [minify]
@@ -16,8 +9,9 @@ minifyJS = true
 minifyCSS = true
 
 [params]
-description = "Your blog description"
-author = "Your Name"
-twitter = "your-twitter-handle"  # Optional
-github = "your-github-handle"  # Optional
+  description = "A Hugo blog using the Hugo-Coder theme"
+  showReadMore = true
+  author = "Your Name"
+  twitter = "your-twitter-handle"  # Optional
+  github = "your-github-handle"  # Optional
 
